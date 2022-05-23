@@ -1,0 +1,4 @@
+﻿  airlines.c
+c:\users\evach\desktop\csd\hy240-δομές δεδομένων\project\φάση α\phase1\airlines.c(33): warning C4047: '=': 'flights *' differs in levels of indirection from '_flights_l *(__cdecl *)()'
+c:\users\evach\desktop\csd\hy240-δομές δεδομένων\project\φάση α\phase1\airlines.c(369): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+  Phase1.vcxproj -> C:\Users\evach\Desktop\CSD\hy240-Δομές Δεδομένων\Project\Φάση Α\Phase1\Debug\Phase1.exe
